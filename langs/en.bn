@@ -1,0 +1,87 @@
+english>English
+farsi>فارسی
+float>right
+lang>English Language
+mad_dic>M.A.D Dictionary
+dir>ltr
+version>Version
+search_prompt>Search your Keyword or term...
+search_btn>Search
+back_sign>Return to Back Word
+forward_sign>Go to Forward Word
+speech_sign>Say Searched text
+ready>Ready to Work
+need_restart>Need to Restart program is
+copy_clipboard>Results were save in System Clipboard
+result(s)>Results
+second(s)>Seconds
+in>In
+converter>Converter
+suggest_words>Proposed Words
+open>Open...
+minutes>Minutes
+hours>Hours
+never>NEVER
+***************************updater
+new_ver_exist>The new version of the software, is now available. Do you want to download it?
+update_program>Software update
+see_details>You can see the details of a new software version below:
+yes_download>Yes, I would like to download now
+no_thanks>No, thanks
+how_update>Click the download button, then you will be asked where to save the new version of the software. Then onlyreplace executable file with the extension ".exe" with previous version of the software.
+download_completed>Download the new version finished
+new_ver>New Version
+cur_ver>Current Version
+link_download>download link
+size_file>File size Download
+downloading>Downloading . . .
+failure>Failure!
+
+****************************menu
+m_file>File
+m_setting>Settings
+m_tools>Tools
+m_help>Help
+save_res>Save Results
+share_res>Share Results
+exit>Exit
+ch_lang>Change Software Language
+ch_lang_des>Please Select a language :
+enable_dics>Enable or Disable the Dictionaries
+about_us>About us...
+restart>Restart
+translate_words_file>The translation of words in a file
+notification_word>Display Word of the day
+notification_cycle>Display the message How often?
+*********************************font
+def_font>Default Font
+2x_font>2x Font
+3x_font>3x Font
+ch_font_des>Please Select a Font for software :
+ch_font>Change Software Font
+**********************************errors
+error1_1>No results found!
+error1_2>Sorry for the information unavailable... :(
+error1_3>Please send this word to us. we will add it to our dictionary.(you can send to amindelavar@hotmail.com)
+******************************about us
+programmer_name>Mohammad Amin Delavar khalafi
+programming>Programmer and Designer
+about_program_1>This application is free. you can use this and share with the other people.
+about_program_2>It is incumbent upon every scholar to take care of himself by piety and grant his knowledge to its seekers.  Imam Ali(A.S)
+***********************************translation_words_tool
+open_txt_prompt>Enter your TEXT file address here ...
+browse_file>Browse File
+words_count>Number of words available in file
+speed_translation>Translation approximate speed
+specialized_field>Specialized Field
+it_field>IT
+medical_field>Medical
+public_field>Public
+translation_to>Translation To
+both>Both
+save_as>Save As
+html_file>HTML file
+text_file>TEXT file
+start_btn>Start Processing
+waiting>Please Wait . . .
+translate_completed>Translation of file finished

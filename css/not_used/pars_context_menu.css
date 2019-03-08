@@ -1,0 +1,8 @@
+/* Context menu */
+.context_menu{background-clip: padding-box;background-color: #fff;border: 1px solid rgba(0, 0, 0, 0.10);border-radius: 5px;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);box-sizing: border-box;display: none;min-height: 50px;opacity: 1;overflow: hidden;position: absolute;min-width: 100px;z-index: 9999;}
+.context_menu ul{font-size: 15px;list-style: none;margin: 2px 0 0;padding: 4px 0;background-color:#fff;}
+.context_menu ul li{background-color:transparent;}
+.context_menu ul li div{clear: both;color: #777;cursor: pointer;font-weight: 400;line-height: 1.42857;padding: 4px 10px;white-space: nowrap;transition: all 0.2s;background:transparent;}
+.context_menu ul li div:hover{background: #004f3a;color: #fff;cursor:pointer;}
+.context_menu ul li hr {background: #e8e8e8;border: 0;color: #e8e8e8;height: 0px;border-bottom: 1px solid rgba(0,0,0,0.01);margin: 4px 20px;}
+.context_menu ul li ul{background-color:rgba(0,0,0,0.03);font-size:small;display: none;}

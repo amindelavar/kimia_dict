@@ -1,0 +1,8 @@
+//*******************
+lang*fa
+auto_database*word_dict
+allowed_databases*word_dict,proverb_dict,it_dict,medical_dict,terms_dict,math_dict,fa_explain,en_explain
+kimia_show_shortcut*CmdOrCtrl+G
+kimia_hide_shortcut*Esc
+toggle_slidebar*open
+max_related_results*10

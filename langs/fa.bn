@@ -1,0 +1,57 @@
+﻿//***********************public
+language*فارسی
+english*English
+farsi*فارسی
+float*right
+non_float*left
+lang_type*fa
+lang*زبان فارسی
+kimia_dict*کیمیا
+kimia_des*فرهنگ لغت هوشمند کیمیا
+dir*rtl
+non_dir*ltr
+dir_cl*fa_dir
+//***********************
+version*نسخه
+search_prompt*کلمه یا عبارت خود را جستجو کنید...
+search_btn*جستجو
+back_sign*به کلمه قبلی برگرد
+forward_sign*به کلمه بعدی برو
+speech_sign*متن جستجو شده را بگو
+result*نتیجه
+in*در
+converter*تبدیل کننده
+suggest_words*کلمات پیشنهادی
+open*باز کردن...
+copy*نسخه برداری
+translate*ترجمه
+milliseconds*میلی ثانیه
+related_items*موارد مشابه
+seconds*ثانیه
+integer_convert*مبدل عددی
+not_support_this_number*در حال حاضر این عدد پشتیبانی نمی شود.
+search_in_data*جستجو در بین
+records*رکورد
+between*در بین
+//****************************menu
+show_win*نمایش پنجره
+exit_app*خروج از برنامه
+results*نتایج
+options*گزینه ها
+configuration*پیکربندی
+manage_dicts*مدیریت لغت نامه ها
+share_results*اشتراک گذاشتن نتایج
+tools*ابزار
+info*اطلاعات
+translate_words_file*ترجمه لفظی فایل
+daily_words*لغات روزانه
+add_to_my_dict*افزودن لغت
+about_app*درباره برنامه
+//*******************************errors
+err345*یافت نشد ... :(
+err865*برای کلمه یا عبارت شما هیچ تطابقی در دیتابیس ها یافت نشد. شما می توانید این لغت را به دفترچه لغات خود اضافه کنید.
+//******************************about us
+programmer_name*محمد امین دلاورخلفی
+programming*برنامه نویس و طراح
+about_program_1*این برنامه به صورت آزاد و رایگان منتشر شده است و می توانید از آن استفاده کنید و با دیگران نیز به اشتراک بگذارید.
+about_program_2* بر هر دانشمندي لازم است که با پرهيزکاري مراقب خود باشد و دانش خويش را در اختيار طالبان علم قرار دهد.  امام علی (ع)

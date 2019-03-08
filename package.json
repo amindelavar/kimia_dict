@@ -1,0 +1,19 @@
+{
+    "name": "kimia_dict",
+    "version": "1.0.0",
+    "description": "An Smart Dictionary for many usage",
+    "productName": "Mohammad Amin Delavar Khalafi",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron .",
+        "build_win": "electron-packager . KimiaDict --platform win32 --icon ./icons/logo.ico --out ./build"
+    },
+    "author": "Mohammad Amin Delavar Khalafi",
+    "license": "Apache 2.0",
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "^3.0.4",
+        "electron-packager": "^12.2.0"
+    }
+}

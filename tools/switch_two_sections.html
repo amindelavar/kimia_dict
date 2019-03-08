@@ -1,0 +1,30 @@
+<html>
+
+<head>
+    <script src="./jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+    <textarea id='h'></textarea>
+
+    <button id='c' onclick='gh()'>convert</button>
+    <textarea id='f'></textarea>
+
+    <script>
+        function gh() {
+            var fin = [];
+            var t = $("#h").val();
+            var t1 = t.split('\n');
+            for (let i = 0; i < t1.length; i++) {
+                var t2 = t1[i].split('@');
+                if (t2.length != 2) continue;
+                fin.push(t2[1].trim() + "@" + t2[0].trim(0));
+            }
+            var t3 = fin.join("\n");
+            $("#f").val(t3);
+        }
+    </script>
+</body>
+
+</html>
